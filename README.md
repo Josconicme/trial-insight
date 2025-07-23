@@ -5,11 +5,7 @@
 
 This project was built for the **Google Cloud Hackathon: AI in Action**.
 
-*[► View Live Demo]()** &nbsp;&nbsp;&nbsp; **[► Watch Video Presentation]()*
 
-*(Note: Add your deployed URL and video link to the placeholders above)*
-
----
 
 ## 🎯 The Problem
 
