@@ -1,24 +1,11 @@
-Of course. A great `README.md` file is essential for any project, especially for a hackathon submission. It's the first thing judges and other developers will see.
 
-Here is a complete, professional, and detailed `README.md` file tailored specifically for your **TrialInsight** project.
-
-**Instructions:**
-1.  In the root directory of your `trial-insight` project, create a new file named `README.md`.
-2.  Copy the entire content below and paste it into that new file.
-3.  **Important:** You will need to fill in two placeholder links near the top: the link to your live deployed application and the link to your demo video.
-
----
-
-### README.md
-
-````markdown
 # 🔬 TrialInsight: AI-Powered Clinical Trial Intelligence
 
-**TrialInsight** is a modern, AI-powered platform designed to revolutionize how healthcare professionals, researchers, and patients interact with the vast and complex world of clinical trials. By leveraging the power of Google Cloud's Generative AI and MongoDB Atlas Vector Search, TrialInsight transforms raw trial data into actionable, searchable, and understandable intelligence.
+*TrialInsight* is a modern, AI-powered platform designed to revolutionize how healthcare professionals, researchers, and patients interact with the vast and complex world of clinical trials. By leveraging the power of Google Cloud's Generative AI and MongoDB Atlas Vector Search, TrialInsight transforms raw trial data into actionable, searchable, and understandable intelligence.
 
 This project was built for the **Google Cloud Hackathon: AI in Action**.
 
-**[► View Live Demo]()** &nbsp;&nbsp;&nbsp; **[► Watch Video Presentation]()**
+*[► View Live Demo]()** &nbsp;&nbsp;&nbsp; **[► Watch Video Presentation]()*
 
 *(Note: Add your deployed URL and video link to the placeholders above)*
 
