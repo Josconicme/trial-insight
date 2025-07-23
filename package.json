@@ -1,0 +1,29 @@
+{
+  "name": "trialinsight-backend",
+  "version": "1.0.0",
+  "description": "Backend for the TrialInsight Hackathon Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js",
+    "run-pipeline": "node data-pipeline/index.js",
+    "embed": "node generate-embeddings.js",
+    "summarize": "node generate-summaries.js" 
+  },
+  "author": "Google Hackathon Team",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/aiplatform": "^4.2.0",
+    "@google-cloud/vertexai": "^1.10.0",
+    "adm-zip": "^0.5.10",
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.17.0",
+    "mongoose": "^8.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
